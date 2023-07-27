@@ -11,12 +11,9 @@ export const Icons = {
       viewBox="0 0 256.000000 256.000000"
       preserveAspectRatio="xMidYMid meet"
     >
-      <metadata>
-        Created by potrace 1.10, written by Peter Selinger 2001-2011
-      </metadata>
       <g
         transform="translate(0.000000,256.000000) scale(0.050000,-0.050000)"
-        fill="purple"
+        fill="black"
         stroke="none"
       >
         <path
